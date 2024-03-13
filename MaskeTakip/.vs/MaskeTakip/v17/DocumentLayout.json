@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\Entities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3212A0-5537-43EA-ADE7-CDE3E40DA4F6}|Business\\Business.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\entities\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3212A0-5537-43EA-ADE7-CDE3E40DA4F6}|Business\\Business.csproj|solutionrelative:business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3212A0-5537-43EA-ADE7-CDE3E40DA4F6}|Business\\Business.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\entities\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3212A0-5537-43EA-ADE7-CDE3E40DA4F6}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F59E0A5-6370-4A52-8638-A5E5B4F18033}|Entities\\Entities.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\entities\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F59E0A5-6370-4A52-8638-A5E5B4F18033}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BECFF78-CD18-467D-9E95-C2F902118823}|Workaround\\Workaround.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\entities\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BECFF78-CD18-467D-9E95-C2F902118823}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\Entities\\Workaround\\Program.cs",
+              "RelativeDocumentMoniker": "Workaround\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\Entities\\Workaround\\Program.cs",
+              "RelativeToolTip": "Workaround\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:17:13.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\Entities\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\Entities\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:16:47.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\Entities\\Business\\Concrete\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PersonManager.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\Entities\\Business\\Concrete\\PersonManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PersonManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:15:12.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\Entities\\Business\\Concrete\\PttManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PttManager.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\Entities\\Business\\Concrete\\PttManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PttManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:15:07.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
