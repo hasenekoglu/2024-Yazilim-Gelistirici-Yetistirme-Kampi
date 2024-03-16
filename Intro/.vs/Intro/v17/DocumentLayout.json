@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\intro\\intro\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|solutionrelative:intro\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\intro\\intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|solutionrelative:intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\intro\\intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|solutionrelative:intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\intro\\intro\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|solutionrelative:intro\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\intro\\intro\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|solutionrelative:intro\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\intro\\intro\\entities\\basecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|solutionrelative:intro\\entities\\basecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\intro\\intro\\entities\\individualcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|solutionrelative:intro\\entities\\individualcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\intro\\intro\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53AD99-D223-4D58-A4C4-D819F3F25B2A}|Intro\\Intro.csproj|solutionrelative:intro\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfCourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\DataAccess\\Concretes\\EfCourseDal.cs",
+              "RelativeDocumentMoniker": "Intro\\DataAccess\\Concretes\\EfCourseDal.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\DataAccess\\Concretes\\EfCourseDal.cs",
+              "RelativeToolTip": "Intro\\DataAccess\\Concretes\\EfCourseDal.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:34:58.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\Business\\CourseManager.cs",
+              "RelativeDocumentMoniker": "Intro\\Business\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\Business\\CourseManager.cs",
+              "RelativeToolTip": "Intro\\Business\\CourseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:37:14.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeToolTip": "Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T21:27:36.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeDocumentMoniker": "Intro\\DataAccess\\Concretes\\CourseDal.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeToolTip": "Intro\\DataAccess\\Concretes\\CourseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:35:35.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\Entities\\BaseCustomer.cs",
+              "RelativeDocumentMoniker": "Intro\\Entities\\BaseCustomer.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\Entities\\BaseCustomer.cs",
+              "RelativeToolTip": "Intro\\Entities\\BaseCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:44:50.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IndividualCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\Entities\\IndividualCustomer.cs",
+              "RelativeDocumentMoniker": "Intro\\Entities\\IndividualCustomer.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\Entities\\IndividualCustomer.cs",
+              "RelativeToolTip": "Intro\\Entities\\IndividualCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:40:04.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Intro\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\Entities\\Course.cs",
+              "RelativeToolTip": "Intro\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:27:36.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\Program.cs",
+              "RelativeDocumentMoniker": "Intro\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\Intro\\Intro\\Program.cs",
+              "RelativeToolTip": "Intro\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:26:45.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
