@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\business\\dtos\\responses\\getallbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\getallbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD1D999B-931B-4E71-962E-74BB31DC010B}|WebApi\\WebApi.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1D999B-931B-4E71-962E-74BB31DC010B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\business\\abstracts\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|solutionrelative:business\\abstracts\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD1D999B-931B-4E71-962E-74BB31DC010B}|WebApi\\WebApi.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1D999B-931B-4E71-962E-74BB31DC010B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\business\\dtos\\responses\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\business\\concretes\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|solutionrelative:business\\concretes\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\business\\dtos\\responses\\getallbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\getallbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\business\\dtos\\requests\\createbrandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|solutionrelative:business\\dtos\\requests\\createbrandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFAFDAF9-C4CA-4524-A2AF-F4D091A14AAB}|Core\\Core.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFAFDAF9-C4CA-4524-A2AF-F4D091A14AAB}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30DCE15F-56FA-4DDD-9DD1-15CAD0CFC9EA}|DataAccess\\DataAccess.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\dataaccess\\concretes\\branddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DCE15F-56FA-4DDD-9DD1-15CAD0CFC9EA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concretes\\branddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\business\\abstracts\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6452F2-1EF6-46BD-8CC8-1013088EB91C}|Business\\Business.csproj|solutionrelative:business\\abstracts\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30DCE15F-56FA-4DDD-9DD1-15CAD0CFC9EA}|DataAccess\\DataAccess.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\dataaccess\\abstracts\\ibranddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DCE15F-56FA-4DDD-9DD1-15CAD0CFC9EA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstracts\\ibranddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DCE15F-56FA-4DDD-9DD1-15CAD0CFC9EA}|DataAccess\\DataAccess.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\dataaccess\\concretes\\branddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30DCE15F-56FA-4DDD-9DD1-15CAD0CFC9EA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concretes\\branddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFAFDAF9-C4CA-4524-A2AF-F4D091A14AAB}|Core\\Core.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAFDAF9-C4CA-4524-A2AF-F4D091A14AAB}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{258E8063-08A6-4795-B024-D827C75E2D8C}|Entities\\Entities.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\2024 yaz\u0131l\u0131m geli\u015Ftirme kamp\u0131\\2024-yaz-l-m-geli-tirici-yeti-tirme-kamp-\\webapi\\entities\\concretes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,17 +66,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:39:31.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\WebApi\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\WebApi\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:23:08.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Business\\Concretes\\BrandManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concretes\\BrandManager.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Business\\Concretes\\BrandManager.cs",
+              "RelativeToolTip": "Business\\Concretes\\BrandManager.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:52:36.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GetAllBrandResponse.cs",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
               "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
               "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
               "RelativeToolTip": "Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T23:14:50.651Z",
               "EditorCaption": ""
@@ -77,31 +132,33 @@
               "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
               "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
               "RelativeToolTip": "Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T23:01:55.804Z"
+              "WhenOpened": "2024-04-22T23:01:55.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CreateBrandRequest.cs",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Business\\Dtos\\Requests\\CreateBrandRequest.cs",
               "RelativeDocumentMoniker": "Business\\Dtos\\Requests\\CreateBrandRequest.cs",
               "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Business\\Dtos\\Requests\\CreateBrandRequest.cs",
               "RelativeToolTip": "Business\\Dtos\\Requests\\CreateBrandRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T23:01:12.843Z"
+              "WhenOpened": "2024-04-22T23:01:12.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "IBrandService.cs",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Business\\Abstracts\\IBrandService.cs",
               "RelativeDocumentMoniker": "Business\\Abstracts\\IBrandService.cs",
               "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Business\\Abstracts\\IBrandService.cs",
               "RelativeToolTip": "Business\\Abstracts\\IBrandService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T22:57:36.178Z",
               "EditorCaption": ""
@@ -116,23 +173,25 @@
               "RelativeToolTip": "DataAccess\\Concretes\\BrandDal.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T22:52:35.392Z"
+              "WhenOpened": "2024-04-22T22:52:35.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IBrandDal.cs",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\DataAccess\\Abstracts\\IBrandDal.cs",
               "RelativeDocumentMoniker": "DataAccess\\Abstracts\\IBrandDal.cs",
               "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\DataAccess\\Abstracts\\IBrandDal.cs",
               "RelativeToolTip": "DataAccess\\Abstracts\\IBrandDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T22:51:14.887Z"
+              "WhenOpened": "2024-04-22T22:51:14.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
@@ -144,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Core.csproj",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
@@ -156,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Brand.cs",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Entities\\Concretes\\Brand.cs",
               "RelativeDocumentMoniker": "Entities\\Concretes\\Brand.cs",
@@ -168,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Entities.csproj",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\Entities\\Entities.csproj",
               "RelativeDocumentMoniker": "Entities\\Entities.csproj",
@@ -180,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\2024 Yaz\u0131l\u0131m Geli\u015Ftirme Kamp\u0131\\2024-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\\WebApi\\DataAccess\\DataAccess.csproj",
               "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
